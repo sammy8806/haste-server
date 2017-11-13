@@ -1,11 +1,11 @@
 {
 
-  "host": "0.0.0.0",
-  "port": 7777,
+  "host": "127.0.0.1",
+  "port": 8084,
 
   "keyLength": 10,
 
-  "maxLength": 400000,
+  "maxLength": 4000000,
 
   "staticMaxAge": 86400,
 

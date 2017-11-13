@@ -83,6 +83,21 @@ textarea {
 	background-position: 0 bottom;
 }
 
+#box1 span {
+	color: #8FBCC8;
+	font-size: 0.8em;
+	font-family: monospace;
+}
+
+#box1 span a {
+	color: #8FBCC8;
+	text-decoration: none;
+}
+
+#box1 span a:hover {
+	color: #FFFFFF;
+}
+
 #box2 .function {
 	background: url(function-icons.png);
 	width: 32px;
